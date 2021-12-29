@@ -53,4 +53,20 @@ Results:
 
 ![image](https://sun9-66.userapi.com/impg/iivj7WFpp3t0uoaCSSGyvu7WWGf8vaVoVce9Tw/Zl-mpiLOTjs.jpg?size=1685x940&quality=96&sign=658c853f064ad8cf72cfcb9586dbf39e&type=album)
 ## [Timetable tg bot](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/timetable_bot)
+A telegram bot on Python that sends the BFI2102 schedule. The program automatically determines the type of the current week using the "datetime" library.
+####
+The bot supports the following commands:
+- "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" - sends the schedule for the specified day.
+- "Schedule for the current week" - sends the schedule for the current week.
+- "Schedule for the next week" - sends the schedule for the next week.
+- /week - specifies the type of the current week.
+- /help - sends a list of bot commands.
+- /mtuci - sends a link to the official MTUCI website.
+####
+The bot displays an error message if the entered message does not belong to the list of commands. 
+####
+This application uses the following libraries:
+- `datetime`
+- `psycopg2`
+- `pyTelegramBotAPI`
 ## [Timetable ui]()
