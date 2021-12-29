@@ -82,7 +82,7 @@ This application uses the following libraries:
 - `sys`
 - `datetime`
 
-Result:
+Results:
 
 ![image](https://user-images.githubusercontent.com/90320429/147650889-8dba7e0f-264c-4aba-b0f8-dcf8989f9bb1.png)
 
