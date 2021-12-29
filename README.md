@@ -7,6 +7,7 @@ Calculator on Python that performs the simplest operations on numbers. The progr
 This application uses the following libraries:
 - `PyQt5`
 - `sys` 
+
 Result:
 ![image](https://user-images.githubusercontent.com/90320404/147295532-72a89a42-ece7-4a8c-87f2-5ed7315bb19a.png
 ## [Translator with azure](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/translatore_with_azure1)
