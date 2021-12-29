@@ -15,8 +15,6 @@ Result:
 
 The web translator application using Microsoft Azure translates from Russian into the selected language and converts text to speech
 
-Python Version: Python 3.9
-
 This application uses the following libraries:
 - `Flask`
 
@@ -29,6 +27,12 @@ A web application with the ability to register and go to another page when you e
 This application uses the following libraries: 
 - `Flask`
 - `psycopg2`
+
+Results:
+
+![image](https://user-images.githubusercontent.com/90320404/147295399-f2e3ccc2-19d8-440f-829c-d4926a6ee065.png)
+
+![image](https://user-images.githubusercontent.com/90320404/147295412-a7953b84-d12f-466b-9100-167d0e435008.png)
 ## [Simple telegram bot](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/Simple-bot)
 ## [Timetable tg bot](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/timetable_bot)
 ## [Timetable ui]()
