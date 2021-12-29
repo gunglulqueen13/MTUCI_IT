@@ -39,9 +39,9 @@ Python telegram bot that executes 5 different commands and responds to text requ
 List of bot commands:
 - /start - start the bot with a welcome message ('Hello! Do you want to know the latest information about MTUCI?').
 - /help - list of commands
-- /dawgs - send a random image with dogs
-- /webm - send a video from file
-- /joke - send a random joke
+- /WebM - film from Youtube
+- /luck - test your luck
+- /motivation - phrase of the day
 ####
 The text message "I want" in response to the welcoming message returns a link to the official website of MTUCI. 
 ####
