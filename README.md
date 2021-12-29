@@ -34,5 +34,19 @@ Results:
 
 ![image](https://user-images.githubusercontent.com/90320404/147295412-a7953b84-d12f-466b-9100-167d0e435008.png)
 ## [Simple telegram bot](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/Simple-bot)
+Python telegram bot that executes 5 different commands and responds to text requests.
+####
+List of bot commands:
+- /start - start the bot with a welcome message ('Hello! Do you want to know the latest information about MTUCI?').
+- /help - list of commands
+- /dawgs - send a random image with dogs
+- /webm - send a video from file
+- /joke - send a random joke
+####
+The text message "I want" in response to the welcoming message returns a link to the official website of MTUCI. 
+####
+This application uses the following libraries:
+- `pyTelegramBotAPI`
+- `requests`
 ## [Timetable tg bot](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/timetable_bot)
 ## [Timetable ui]()
