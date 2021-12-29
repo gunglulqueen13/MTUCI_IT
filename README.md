@@ -48,5 +48,9 @@ The text message "show me my way" in response to the welcoming message returns a
 This application uses the following libraries:
 - `pyTelegramBotAPI`
 - `requests`
+
+Results:
+
+![image](https://sun9-66.userapi.com/impg/iivj7WFpp3t0uoaCSSGyvu7WWGf8vaVoVce9Tw/Zl-mpiLOTjs.jpg?size=1685x940&quality=96&sign=658c853f064ad8cf72cfcb9586dbf39e&type=album)
 ## [Timetable tg bot](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/timetable_bot)
 ## [Timetable ui]()
