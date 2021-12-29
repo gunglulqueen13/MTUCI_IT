@@ -74,4 +74,16 @@ Results:
 
 ![image](https://sun9-15.userapi.com/impg/jGBI6hy78Ia9K1GTFTu3mS2SrBH3sCoaF0x2LA/6q7-ixZdtD8.jpg?size=1680x942&quality=96&sign=e64e2751eed6ace7b0dc80c58104e06f&type=album)
 
-## [Timetable ui]()
+## [Timetable ui](https://github.com/gunglulqueen13/MTUCI_IT/tree/main/UI)
+Database visualization on Python that uses PostgreSQL and PyQt5 module. Displays the database in the form of a tabbed table and allows you to edit its lines, as well as add and delete the contents of the database. 
+####
+This application uses the following libraries:
+- `psycopg2`
+- `sys`
+- `datetime`
+
+Result:
+
+![image](https://user-images.githubusercontent.com/90320429/147650889-8dba7e0f-264c-4aba-b0f8-dcf8989f9bb1.png)
+
+
