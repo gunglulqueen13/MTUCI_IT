@@ -43,7 +43,7 @@ List of bot commands:
 - /luck - test your luck
 - /motivation - phrase of the day
 ####
-The text message "show me my way" in response to the welcoming message returns a link to the official website of MTUCI. 
+The text message "покажи мой путь" in response to the welcoming message returns a link to the official website of MTUCI. 
 ####
 This application uses the following libraries:
 - `pyTelegramBotAPI`
